@@ -1,0 +1,11 @@
+Bootstrap + Bootstrap primjeri: 
+https://getbootstrap.com
+
+Footer:
+https://mdbootstrap.com/docs/jquery/navigation/footer/
+
+Contact page - forma:
+https://getbootstrap.com/docs/4.0/components/forms/
+
+Favicon:
+https://stackoverflow.com/questions/9943771/adding-a-favicon-to-a-static-html-page
